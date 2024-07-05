@@ -24,5 +24,3 @@ Key Elements of the Excel Interface :-
 6. **The Status Bar** :- At the bottom of the Excel window, the Status Bar provides quick information about your worksheet, such as the sum, average, and count of selected cells. It also includes tools for toggling between different worksheet views and adjusting the zoom level.
 
 [Microsoft Excel Beginner's Class - Master the Basics! 📊](https://youtu.be/kSQmPK-tWnw)
-
-[Download the File]("assests/1. Navigation & Intro.xlsx")
