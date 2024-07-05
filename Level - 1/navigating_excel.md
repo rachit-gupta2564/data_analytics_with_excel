@@ -25,4 +25,4 @@ Key Elements of the Excel Interface :-
 
 [Microsoft Excel Beginner's Class - Master the Basics! 📊](https://youtu.be/kSQmPK-tWnw)
 
-[Download the File]("C:\Users\rachi\Documents\data_analytics_with_excel\assests\1. Navigation & Intro.xlsx")
+[Download the File]("assests\1. Navigation & Intro.xlsx")
